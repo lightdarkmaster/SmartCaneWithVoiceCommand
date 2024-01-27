@@ -1,2 +1,2 @@
 # SmartCaneWithVoiceCommand
-This repo is intended for the smartcane arduino project
+This project aims to help individuals with visual impairments. It incorporates various sensors, connectivity features, and assistive technologies to enhance the user's mobility, safety, and independence. Here are some common features and functionalities found in smart canes, it has Obstacle Detection, Naviagtion Assistance, Feedback mechanbism, lighting system and battery operated device.These features aim to improve the user's overall mobility and safety, allowing individuals with visual impairments to navigate their surroundings more confidently. As technology advances, smart canes continue to evolve with additional features and improved integration.
